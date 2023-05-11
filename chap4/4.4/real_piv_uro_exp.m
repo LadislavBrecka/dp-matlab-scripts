@@ -87,7 +87,7 @@ plot(t_step_sim(1, k_from:end), u_speed_real(1, k_from:end), 'DisplayName', 'u -
 legend
 grid on
 ylim([-105, 105])
-ylabel('Stireda [ % ]')
+ylabel('Strieda [ % ]')
 xlabel('Čas [s]')
 title('Priebeh akčného zásahu na reálnom zariadení')
 
